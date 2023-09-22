@@ -1,4 +1,4 @@
-# Manual-Testing-Project
+# Manual Testing Project_Guru99 Banking
 1. Introduction:
 
 This is a manual testing project for a Banking Demo Site.

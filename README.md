@@ -49,5 +49,9 @@ The final version of the Banking Site: https://demo.guru99.com/V4/
 
 The Guru99 Banking site finally comes live! 
 
+# Test Execution and report on Jira + Zephyr setup
 
+Test Execution : https://kvaishu411.atlassian.net/jira/your-work
+
+Report : https://kvaishu411.atlassian.net/jira/dashboards/10001
 
